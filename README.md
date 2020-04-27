@@ -1,4 +1,4 @@
-# gdp vs leaby
+# GDP vs LEABY (Life Expectancy At Birth Year)
 Data analysis of the GDP vs Life Expectancy at Birth Year
 1.) final.csv is the final dataset to be used. It contains GDP and Life Expectancy data.
 2.) GDPUS.csv contains the data of GDP for last 20 years. This is the data of all the countries in the world.
