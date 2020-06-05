@@ -6,3 +6,5 @@ Data analysis of the GDP vs Life Expectancy at Birth Year
 4.) LEBY.csv contains the data of Life Expectancy for last 20 years. This is the data of all the countries in the world.
 5.) LE.csv contains the data of Life Expectancy since 1960. This is the data of all the countries in the world.
 6.) main.ipynb file is python notebook for the code of data analysis.
+
+## *Head over to the article:https://medium.com/analytics-vidhya/life-expectancy-vs-gross-domestic-product-data-analytics-837f38f91b8c*
